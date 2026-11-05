@@ -1,0 +1,1 @@
+{"name":"violet-homes","private":true,"version":"1.0.0","type":"module","scripts":{"start":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"dependencies":{"leaflet":"^1.9.4","lucide-react":"^0.468.0","react":"^19.1.1","react-dom":"^19.1.1"},"devDependencies":{"vite":"^6.3.6"}}

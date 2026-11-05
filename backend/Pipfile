@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "==3.1.2"
+
+[dev-packages]
+pytest = "==8.4.2"
+
+[scripts]
+dev = "python app.py"
+test = "python -m pytest -q"
